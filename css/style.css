@@ -1,0 +1,30 @@
+body{
+    background-color: #000;
+}
+
+.main{
+
+    position: relative;
+
+}
+.block_img{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+.block_run{
+
+    position: absolute;
+    top: 35%;
+    right: 30%;
+
+}
+.block_run p {
+
+    color: #fff;
+    font-size: 30px;
+
+}
+
